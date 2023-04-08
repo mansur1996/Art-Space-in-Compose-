@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="img_land">IMG Artists is a global leader of performing arts, social media, and festival and events management.</string>
+    <string name="img_land_desc">img_land_desc</string>
+    <string name="img_part">MG Artists LLC is a performing arts management corporation. HistoryEdit.</string>
+    <string name="img_part_desc">img_part_desc</string>
+    <string name="img_square">IMG Artists is a global leader of performing arts, social media</string>
+    <string name="img_square_desc">img_square_desc</string>
+
+</resources>
